@@ -18,6 +18,3 @@
 ### インストール方法
 ```bash
 pip install pandas seaborn matplotlib pybaseball
-
-## 分析結果
-![Ohtani 2025 Analysis](ohtani_2025_pitch_ev_dist.png)
